@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name="title">Kalkulator BMI</string>
+    <string name="weight">Waga (kg)</string>
+    <string name="height">Wzrost (cm)</string>
+    <string name="calculate">Oblicz</string>
+    <string name="history">Historia</string>
+    <string name="result">Wynik: %1$s</string>
+    <string name="back">Powrót</string>
+    <string name="clear_history">Wyczyść historię</string>
+    <string name="history_item_format">Waga: %1$.1f, Wzrost: %2$.1f, BMI: %3$.2f</string>
+    <string name="invalid_data">Błędne dane</string>
+</resources>
